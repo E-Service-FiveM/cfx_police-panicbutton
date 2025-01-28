@@ -2,7 +2,7 @@
 
 **Version:** 1.2.0
 **Developer:** Novek  
-**Tebex-Store** [Buy-Here](https://noveks-workspace.tebex.io/package/6551861)
+**Tebex-Store** [Buy-Here](https://e-service.tebex.io/package/6650101))
 **Documentation** [Website](https://e-service-fivem.gitbook.io/e-service-tm-documentation/scripts/panic-button)
 
 ## 💬 Help & Support
